@@ -1,3 +1,4 @@
+// Complete the solution so that it reverses all of the words within the string passed in.
 function reverseWords(str) {
   var str_arr = str.split(" ");
   for (i = 0; i < str_arr.length / 2; i++) {
