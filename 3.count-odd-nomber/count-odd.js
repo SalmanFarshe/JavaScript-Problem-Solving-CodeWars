@@ -1,3 +1,5 @@
+// Given a number n, return the number of positive odd numbers below n, EASY!
+
 // it passed the all test without difficulties
 function oddCount(n) {
   var oddNumber = [];
